@@ -1,0 +1,11 @@
+C:\Users\jozeh\Desktop\login\Login_\bin\Debug\Login_.exe.config
+C:\Users\jozeh\Desktop\login\Login_\bin\Debug\Login_.exe
+C:\Users\jozeh\Desktop\login\Login_\bin\Debug\Login_.pdb
+C:\Users\jozeh\Desktop\login\Login_\obj\Debug\Login_.csproj.AssemblyReference.cache
+C:\Users\jozeh\Desktop\login\Login_\obj\Debug\Login_.Form1.resources
+C:\Users\jozeh\Desktop\login\Login_\obj\Debug\Login_.Properties.Resources.resources
+C:\Users\jozeh\Desktop\login\Login_\obj\Debug\Login_.csproj.GenerateResource.cache
+C:\Users\jozeh\Desktop\login\Login_\obj\Debug\Login_.csproj.CoreCompileInputs.cache
+C:\Users\jozeh\Desktop\login\Login_\obj\Debug\Login_.exe
+C:\Users\jozeh\Desktop\login\Login_\obj\Debug\Login_.pdb
+C:\Users\jozeh\Desktop\login\Login_\obj\Debug\Login_.Form2.resources
